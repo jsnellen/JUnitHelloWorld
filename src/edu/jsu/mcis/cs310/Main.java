@@ -2,7 +2,7 @@ package edu.jsu.mcis.cs310;
 
 public class Main {
     
-    private final String defaultMessage = "Hello, World!";
+    private final String defaultMessage = "I'm a little teapot.";
 
     public static void main(String[] args) {
         
